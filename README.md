@@ -11,10 +11,10 @@
 https://youtu.be/8J0Lvq1N6_s
 
 ## My finished product
-![product](https://i.imgur.com/lgeCqGw.gif)
+![image](https://github.com/salivadragontech/smart-pocket-door-lock/blob/master/image/finished_product.gif)
 
 ## Architecture
-![diagram](https://i.imgur.com/UaeD7x3.png =500x)
+![diagram](https://i.imgur.com/UaeD7x3.png)
 
 ## Known issues
 1. May require additional control chip to control multiple servo motors, otherwise it will be very unstable.
