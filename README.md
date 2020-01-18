@@ -1,5 +1,5 @@
 # Smart Pocket Door Lock
-+ Control the door lock with a servo motor **without removing the door lock.**
++ Control the door lock with a servo motor **without disassemble the door lock.**
 + In the event of a device failure, the door can still be easily opened with a key.
 
 ## File
