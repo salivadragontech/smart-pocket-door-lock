@@ -1,0 +1,17 @@
+CREATE TABLE Card(
+   Uid    VARCHAR(20)    PRIMARY KEY    NOT NULL,
+   Cid    VARCHAR(20),
+   Owner    VARCHAR(20)    NOT NULL
+);
+
+CREATE TABLE Person(
+   Id    VARCHAR(20)    PRIMARY KEY    NOT NULL,
+   Name    VARCHAR(30),
+   Status    INT    NOT NULL
+);
+
+CREATE TABLE Log(
+   Id   INTEGER PRIMARY KEY AUTOINCREMENT,
+   Uid VARCHAR NOT NULL,
+   DateTime DateTime NOT NULL 
+);
